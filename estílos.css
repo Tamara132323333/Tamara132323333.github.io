@@ -1,0 +1,22 @@
+    body {
+      background-color: #f0e68c; /* Color de fondo amarillo claro */
+      font-family: 'Courier New', Courier, monospace; /* Cambio de fuente */
+    }
+
+    h1 {
+      color: #32CD32; /* Color verde */
+      font-size: 2.5em;
+      text-align: center;
+    }
+
+    h2 {
+      color: #FF4500; /* Color naranja */
+      font-size: 2em;
+      text-align: center;
+    }
+
+    p {
+      font-size: 18px;
+      color: #800080; /* Color morado */
+      text-align: justify;
+    }
